@@ -1,3 +1,55 @@
 body {
-    background: 		#FAF0E6
+    background: #FFF5EE;
 }
+
+header {
+     
+          background: 		#F5DEB3;
+          padding:20px 0;
+        }
+
+        
+.caixa {
+    position: relative;
+    width:1890px;
+    margin: 0 auto;
+
+}
+
+nav { 
+
+    position: absolute;
+    top:110px;
+    right: 0;
+}
+
+nav li {
+
+       display: inline;
+       margin:0 0 0 20px ;
+}
+
+nav a {
+
+    text-transform: uppercase;
+       color: black;
+       font-weight:bold;
+       font-size: 24px;
+       text-decoration: none;
+   }
+
+
+#baneer2 {
+  
+   }
+ 
+
+ .imagempromocoes {
+   
+         width:30%;
+         position: relative;
+         margin: 0 auto;
+       
+
+
+ }
