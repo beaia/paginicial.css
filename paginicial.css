@@ -39,7 +39,7 @@ nav a {
    }
 
 
-#baneer2 {
+#baneer {
   
    }
  
@@ -53,3 +53,17 @@ nav a {
 
 
  }
+
+/* css da pagina inical */
+.banner { 
+
+
+}
+
+.titulo-principal{
+
+text-align: center;
+font-size: 2em ;
+
+
+}
